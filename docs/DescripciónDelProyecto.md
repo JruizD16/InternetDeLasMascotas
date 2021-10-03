@@ -8,4 +8,4 @@ Entre las principales funciones que contribuyen al cuidado y atención básica d
 - Vigilar a la mascota en cualquier momento del día (localizar y conocer que está haciendo la mascota en un momento determinado)
 - Detectar si la mascota pasa por zonas donde no debería hacerlo (conocer si la mascota va hacia una ventana exterior, o hacia la puerta de salida)
 
-Se cuenta con una Raspberry Pi, la cuál gestiona las entradas de los sensores temperatura y humedad, sensor de cámara y sensor de movimiento. A partir de los valores de entrada de los sensores, la Raspberry Pi, a través de diferentes scripts, realiza el envio de datos detelemetría para su procesamiento y toma de decisiones.
+Se cuenta con una Raspberry Pi, la cuál gestiona las entradas de los sensores temperatura y humedad, sensor de cámara y sensor de movimiento. A partir de los valores de entrada de los sensores, la Raspberry Pi, a través de diferentes scripts, realiza el envio de datos de telemetría para su procesamiento y toma de decisiones.
