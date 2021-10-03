@@ -1,4 +1,4 @@
-# Internet de las Mascotas  
+# :smiley_cat: Internet de las Mascotas :dog:  
 Este repositorio contiene toda la documentación relacionada a la realización del proyecto de la asignatura Cloud Computing a través de las diferentes prácticas planteadas. 
 
 ## Acerca del proyecto
